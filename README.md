@@ -63,30 +63,9 @@ Open `http://localhost:8501` in your browser
 - **Confidence threshold:** 0-100% (default: 50%)
 - **Matching method:** cosine, euclidean, or combined
 
-📁 Project Structure
-face-sketch-recognition-test/
-│
-├── app_custom.py
-├── venv/
-│
-├── data/
-│   └── embeddings.db
-│
-├── dataset/
-│   ├── 01349_1_F.png
-│   ├── 01349_1_F.txt
-│   ├── 01350_1_F.png
-│   ├── 01350_1_F.txt
-│   └── ...
-│
-└── src/
-    ├── __init__.py
-    ├── data_loader.py
-    ├── face_embeddings.py
-    ├── database.py
-    ├── matching.py
-    ├── preprocessing.py
-    └── custom_setup.py
+<img width="488" height="691" alt="image" src="https://github.com/user-attachments/assets/d54c2af9-c6d6-4868-a7f0-885ae92f4892" />
+
+
 ## Tips
 
 ✓ Use clear, detailed sketches for better results
